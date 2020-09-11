@@ -60,7 +60,7 @@ Pystemmer
 2. run fetchtitle.ipynb to create title and title_id map files
 #### 2.Search:
 1. Put queries in quires.txt
-2. Run search.py to fetch search result
+2. Run search_refined.py to fetch search result
 
 ### Search output:
 Search output will be dumped into queries_op.txt file
