@@ -1,6 +1,5 @@
 ## Wikipedia-Search-Engine
 A wikipedia content search engine on ~40 GB of wikipedia dump. In order to fecilitate faster search results indexing technique is used and top k results are fetched using ranking algorithem.
-
 ### Parsing:
 Parsing is done using SAX parser, which efficiently reads the xml corpus line by line so that we don't run out of memory while parsing.
 Parsing a page includes following operations:
@@ -13,7 +12,6 @@ Parsing a page includes following operations:
 ### Inverted Index:
 Inverted index of a token contains posting list having information of documents in which word is occouring. Along with doc information it also stores fields info as well.
 Following fields have been used in posting list:
-
 ```
 t:title
 c:category
@@ -35,11 +33,6 @@ token#doc_id123t12c12i5r34@1234
 - Since we can not store and process all pages of wikidump(~40gb) in main memory,pages are processed in batch(30000 pages) and severeal intermediatory index files will  be generated.
 - Sorting these index files requires external sorting 
 - After sorting and merging we do have multiple final inverted index files, which needs to be accessed using secondary index.
-<<<<<<< Updated upstream
-
-=======
-   
->>>>>>> Stashed changes
 
 ### Technologies:
 Language:Python3
@@ -64,15 +57,14 @@ Pystemmer
 2. run fetchtitle.ipynb to create title and title_id map files
 #### 2.Search:
 1. Put queries in quires.txt
-<<<<<<< Updated upstream
 2. Run search_refined.py to fetch search result
 
 ### Search output:
 Search output will be dumped into queries_op.txt file
-=======
-2. Run search.py to fetch search result
+
+2. Run search_refined.py to fetch search result
 
 ### Search output:
 Search output will be dumped into queries_op.txt file
 
->>>>>>> Stashed changes
+
