@@ -35,7 +35,11 @@ token#doc_id123t12c12i5r34@1234
 - Since we can not store and process all pages of wikidump(~40gb) in main memory,pages are processed in batch(30000 pages) and severeal intermediatory index files will  be generated.
 - Sorting these index files requires external sorting 
 - After sorting and merging we do have multiple final inverted index files, which needs to be accessed using secondary index.
+<<<<<<< Updated upstream
 
+=======
+   
+>>>>>>> Stashed changes
 
 ### Technologies:
 Language:Python3
@@ -60,7 +64,15 @@ Pystemmer
 2. run fetchtitle.ipynb to create title and title_id map files
 #### 2.Search:
 1. Put queries in quires.txt
+<<<<<<< Updated upstream
 2. Run search_refined.py to fetch search result
 
 ### Search output:
 Search output will be dumped into queries_op.txt file
+=======
+2. Run search.py to fetch search result
+
+### Search output:
+Search output will be dumped into queries_op.txt file
+
+>>>>>>> Stashed changes
