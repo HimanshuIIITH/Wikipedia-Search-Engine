@@ -1,0 +1,18 @@
+1919962,Dr Manmohan Singh
+6883809,Manmohan singh
+3737046,Dr Manmohan Singh Scholarships
+1273307,Manmohan Singh (cinematographer)
+1273340,Manmohan Singh, Director
+3229970,Man Mohan Singh
+6234406,First Manmohan Singh Cabinet
+0.381,0.054
+
+7785515,Tajín
+4614205,Taj+mahal
+3116028,Taj mahel
+7296087,Taj Mahaj
+7104930,Taj-ul-Masjid
+6391257,Taj Muhammad
+6307738,Taj (disambiguation)
+0.229,0.033
+
