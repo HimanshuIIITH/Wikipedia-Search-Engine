@@ -1,0 +1,25 @@
+10, b:Californication Season
+20, t:Fallout i:windows r:bethesda
+10, b:Big Four i:Agatha Christie
+5, Missouri Route 85
+10, t:Fuaamotu i:Nukualofa
+20, Catcher in the Rye
+5, Mahendra Singh Dhoni
+10, Canoeing 2004 Summer Olympics
+10, German submarine U-995
+5, i:Andrey Savin b:Speedway World Cup
+10, Adobe Acrobat
+10, 25 December
+10, b:Prisoner of Azkaban i:2004
+10, b:Genie Awards i:1987
+20, b:angus i:James Lee
+20, united nations security
+20, t:presidential campaign b:obama i:2012
+10, t:love b:Arrows
+3, b:V for Vendetta i:2006
+5, young's modulus
+10, b:Speed of light c:Concepts in physics
+20, b:angus r:tories i:James Lee
+30, b:Taxicab 1729
+50, b:Marc Spector i:Marvel Comics c:1980 comics debuts
+100, Sudebnik
